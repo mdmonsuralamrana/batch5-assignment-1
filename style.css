@@ -1,0 +1,135 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0%;
+}
+section{
+    height: 500px;
+}
+.first-section{
+    padding-bottom: 30px
+}
+.half-div{
+    width: 43%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-div h1{
+    border-left: 5px solid #7272eb;
+    margin-right: 2px;
+}
+h1{
+    font-family:'Times New Roman';
+    font-size: 60px;
+}
+.color-highlight{
+    color: hsl(340, 86%, 61%);
+    margin-top: 20px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(#d86377, #E6008A);
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.half-div img {
+    width: 80%;
+}
+.second-section{
+    background-color: whitesmoke;
+    background-image: gray;
+    background-size:100%;
+    background-position: center;
+    padding-bottom: 200px;
+}
+.second-section h1{
+    font-size:50px;
+    font-weight:bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-bottom:70px;
+}
+#year-mission{
+    color:#E6008A;
+}
+h6{
+    font-size: 25px;
+    color: rgba(247, 91, 156, 0.945);
+    margin-top:5px;
+    margin-left: 85px;
+}
+.second-part p{
+    font-size: 15px;
+    text-decoration-line: inherit;
+    margin-top:-10px;
+}
+.second-part img{
+    margin-left: 70px;
+    margin-top: 20px;
+    padding-top:10px;
+    width:45%;
+}
+.second-part{
+    box-shadow: 0px 10px 40px gray;
+    border-radius: 10px;
+    height: 67%;
+    width: 300px;
+    background-color: white;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+}
+.box-1{
+    background-color:rgb(252, 220, 220);
+}
+.box-2{
+    background-color:rgb(161, 224, 243);
+}
+.box-3{
+    background-color:rgb(250, 134, 134);
+}
+.working-div{
+    width: 43%;
+    float: left;
+    margin-top: -20px;
+}
+.working-div img{
+    margin-left:17%;
+    width: 70%;
+}
+h4{
+    font-size:36px;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+}
+h5{
+    font-size: 14px;
+    font-family: 'Manrope', sans-serif;
+}
+.garage img{
+    padding-top:40px;
+    border-radius: 15px;
+}
+.last-section h3{
+    text-align:center;
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+h2{
+    font-size:40px;
+}
+p{
+    font-size:20px;
+    color: #423c3c;
+    padding-bottom: 30px;
+}
+.footer{
+    background-color: #0B0D17;
+    color: #fff;
+    text-align: center;
+    padding-top:7px;
+    height: 180px;
+    width: 100%;
+}
